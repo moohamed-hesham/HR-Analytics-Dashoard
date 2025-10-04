@@ -1,6 +1,11 @@
 # HR-Analytics-Dashoard
 HR Analytics project using Power BI focusing on salary and workforce insights
 
+<img src="Main_Page.png" alt="Main Page" width="600"/>
+<img src="Employees.png" alt="Main Page" width="600"/>
+<img src="Salaries.png" alt="Main Page" width="600"/>
+
+
 
 ## Project Highlights:
 ### 📊 Multi-dimensional Analytics
